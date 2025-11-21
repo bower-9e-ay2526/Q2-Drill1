@@ -1,0 +1,30 @@
+body {
+    background-color: #e4c8d0;
+}
+
+.hero-image {
+    background-image: url(texture3.jpg);
+    width: 100%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    border: 2px solid #d490a2; 
+    border-width: 1%;
+}
+
+.row {
+    row-gap: 5px;
+}
